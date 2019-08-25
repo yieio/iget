@@ -1,2 +1,2 @@
 # iget
-iget notes
+iget learning notes
